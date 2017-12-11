@@ -27,8 +27,8 @@
   "homepage": "https://github.com/keokilee/react-electron-webview#readme",
   "peerDependencies": {
     "electron": "^1.0.0",
-    "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0|| ^15.0.0"
+    "react": "^0.14.0 || ^16.0.0",
+    "react-dom": "^0.14.0|| ^16.0.0"
   },
   "dependencies": {
     "camelcase": "^4.0.0"
