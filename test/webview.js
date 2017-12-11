@@ -1,10 +1,7 @@
 import React from 'react';
 import { findDOMNode } from 'react-dom';
 
-import {
-  renderIntoDocument,
-  findRenderedDOMComponentWithTag
-} from 'react-addons-test-utils';
+import { renderIntoDocument, findRenderedDOMComponentWithTag } from 'react-dom/test-utils'
 
 import expect, { spyOn } from 'expect';
 
